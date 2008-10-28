@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6 libxkbfile1
-sdesc: "Xorg keyboard settings utility"
-ldesc: "Xorg keyboard settings utility"
+sdesc: "X.Org keyboard settings utility"
+ldesc: "X.Org keyboard settings utility"
