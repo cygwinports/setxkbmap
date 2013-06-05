@@ -1,0 +1,8 @@
+inherit xorg
+
+NAME="setxkbmap"
+VERSION=1.3.0
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X.Org keyboard settings utility"
+DESCRIPTION="X.Org keyboard settings utility"
